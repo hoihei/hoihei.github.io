@@ -27,7 +27,7 @@ GPA 3.32 out of 4.
 
 
 ## TECHNICAL SKILLS
-The following are the technical skills I have and technologies that I have experienced with: 
+The following are the technical skills I have or technologies that I have experienced with: 
 * Programming: Python, Java, Ruby, PHP, JavaScript, C, C++, Bash/Shell, R
 * Network: Network Protocol Development, 4G, LTE, WiMax, RFID, NS3 Network Simulation, CORE Network Emulator, Software-Defined-Network, OpenFlow, CCNA
 * Artificial Intelligence & Machine Learning: Deep Learning, Decision Tree, Regression, kNN, SVM
