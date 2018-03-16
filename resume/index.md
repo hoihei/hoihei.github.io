@@ -27,16 +27,18 @@ GPA 3.32 out of 4.
 
 
 ## TECHNICAL SKILLS
-The following are the technical skills I have or technologies that I have experienced with: 
+
 * Programming: Python, Java, Ruby, PHP, JavaScript, C, C++, Bash/Shell, R
 * Network: Network Protocol Development, 4G, LTE, WiMax, RFID, NS3 Network Simulation, CORE Network Emulator, Software-Defined-Network, OpenFlow, CCNA
 * Artificial Intelligence & Machine Learning: Deep Learning, Decision Tree, Regression, kNN, SVM
 * Python: Pandas, Numpy, SciPy, NetworkX, MatPlotLib, Seaborn, Webapp2, Flask,
-* Java: Android, JSP, Spring, Struts, Hibernate • Ruby: Ruby On Rails,  Koala, Scrappy 
-* PHP: Codeigniter, PHPCake, Kohana • Javascript: NodeJs, Ext JS,  JQuery
+* Java: Android, JSP, Spring, Struts, Hibernate 
+* Ruby: Ruby On Rails,  Koala, Scrappy 
+* PHP: Codeigniter, PHPCake, Kohana 
+* JavaScript: NodeJs, Ext JS,  JQuery
 * Server/Cloud: Google Cloud, Amazon Web Service, Virtual Private Server, Linux, 
 * Database: PostgreSQL, MongoDB, Google Cloud SQL, Firebase, MySQL, Microsoft SQL Server, Oracle 
-* Miscellaneous Technology: Hadoop, Kafka, ZeroMQ, Subversion, Git, Jupiter Notebook, LaTex
+* Miscellaneous technologies: Hadoop, Kafka, ZeroMQ, Subversion, Git, Jupiter Notebook, LaTex
 
 
 ## EXPERIENCES
