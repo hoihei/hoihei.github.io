@@ -1,7 +1,5 @@
 
-================
 # RIYANTO JAYADI
-================
 
 * Birth of Year: 1988
 * Gender: Male
@@ -13,15 +11,15 @@ I have been in software development area in 8+ years from web applications devel
 
 ## EDUCATIONS
 
-### Aug 2013 ñ Jul 2018(scheduled): Ph.D. Program of Information Management, National Taiwan University of Science and Technology (NTUST), Taiwan. 
+### Aug 2013 ‚Äì Jul 2018(scheduled): Ph.D. Program of Information Management, National Taiwan University of Science and Technology (NTUST), Taiwan. 
 
 GPA 3.9 out of 4. Currently, I have been satisfied the requirement for applying Ph.D. degree oral exam. The oral exam is scheduled in the in the coming month. I have published two scientific journal papers and have spoken at four scientific conferences. 
 
-### Aug 2012 ñ Jul 2013: Master Program of Information Management, National Taiwan University of Science and Technology (NTUST), Taiwan. 
+### Aug 2012 ‚Äì Jul 2013: Master Program of Information Management, National Taiwan University of Science and Technology (NTUST), Taiwan. 
 
 GPA 3.86 out of 4. I passed 21 credit courses then accepted for transferring to Ph.D. 
 
-### Sept 2007 ñ Aug 2011: Undergraduate Degree of Information System, Institut Teknologi Sepuluh Nopember (ITS) Surabaya, Indonesia. 
+### Sept 2007 ‚Äì Aug 2011: Undergraduate Degree of Information System, Institut Teknologi Sepuluh Nopember (ITS) Surabaya, Indonesia. 
 
 GPA 3.32 out of 4.
 
@@ -34,38 +32,39 @@ The following are the technical skills I have and technologies that I have exper
 * Network: Network Protocol Development, 4G, LTE, WiMax, RFID, NS3 Network Simulation, CORE Network Emulator, Software-Defined-Network, OpenFlow, CCNA
 * Artificial Intelligence & Machine Learning: Deep Learning, Decision Tree, Regression, kNN, SVM
 * Python: Pandas, Numpy, SciPy, NetworkX, MatPlotLib, Seaborn, Webapp2, Flask,
-* Java: Android, JSP, Spring, Struts, Hibernate ï Ruby: Ruby On Rails,  Koala, Scrappy 
-* PHP: Codeigniter, PHPCake, Kohana ï Javascript: NodeJs, Ext JS,  JQuery
+* Java: Android, JSP, Spring, Struts, Hibernate ‚Ä¢ Ruby: Ruby On Rails,  Koala, Scrappy 
+* PHP: Codeigniter, PHPCake, Kohana ‚Ä¢ Javascript: NodeJs, Ext JS,  JQuery
 * Server/Cloud: Google Cloud, Amazon Web Service, Virtual Private Server, Linux, 
 * Database: PostgreSQL, MongoDB, Google Cloud SQL, Firebase, MySQL, Microsoft SQL Server, Oracle 
 * Miscellaneous Technology: Hadoop, Kafka, ZeroMQ, Subversion, Git, Jupiter Notebook, LaTex
 
 
 # EXPERIENCES
-### (2012 ñ Now)  Information Management Department, National Taiwan University of Science and Technology (NTUST), Taiwan. 
+### (2012 ‚Äì Now)  Information Management Department, National Taiwan University of Science and Technology (NTUST), Taiwan. 
 Research Assistant: I  am researching RFID, energy efficiency, wireless network protocol development, 4G, future 5G, device-to-device, mobile user cooperation, software-defined-network, and OpenFlow. I also help for preparing several course materials for my advisor on computer networking course and scientific writing course. I also have been working on the academic-industrial project that belongs to my advisors. Besides of that, I also have several open source projects that I personally develop and maintain in my GitHub.
 Part-time Maintenance Personnel: I am working as part-time on helping department staff maintaining the offices and classrooms in this department since 2013 until now. 
 
-### (Jan 2012 ñ Sep 2012) BeenaryLab 
+### (Jan 2012 ‚Äì Sep 2012) BeenaryLab 
 Programmer: An incubated startup company, founded with my friends, with the product is a shopping cart mobile application that uses QR-Code and NFC for the transaction. 
 
-### (Aug 2010 ñ Jan 2012) Arfa Nusantara Technology
+### (Aug 2010 ‚Äì Jan 2012) Arfa Nusantara Technology
 Lead Programmer: I was working for architecting, developing and maintaining multiple software development project on this software house company. These projects are mainly using PHP, MySQL, PostgreSQL, and JQuery.
-### (Sept 2009 ñ Aug 2010) East Java Development Planning Agency 
+### (Sept 2009 ‚Äì Aug 2010) East Java Development Planning Agency 
 Programmer: My duties in this jobs are software developer on 3 information systems application that is using Oracle and PHP and one profile website that using Joomla for this region governmental office.
 
-### (Aug 2007 ñ Sep 2010) South Borneo Student Dormitory in Surabaya
+### (Aug 2007 ‚Äì Sep 2010) South Borneo Student Dormitory in Surabaya
 Dormitory Manager: I was selected as manager for self-organized student dormitory in which the responsibilities were to maintaining the dormitory and the tenants (students). It was also including maintaining computer and network administration.
 
-### (Aug 2008 ñ Sep 2010) Information System Department, Institut Teknologi Sepuluh Nopember, Surabaya
-Assistant lecturer: In the operation system course and database course, my duties involved on checking every task, tests keeper and training students on learning a databases technology and operating system ï Lab Admins: I was responsible on installing and maintaining about two hundred computers and maintaining its networks. 
+### (Aug 2008 ‚Äì Sep 2010) Information System Department, Institut Teknologi Sepuluh Nopember, Surabaya
+Assistant lecturer: In the operation system course and database course, my duties involved on checking every task, tests keeper and training students on learning a databases technology and operating system ‚Ä¢ Lab Admins: I was responsible on installing and maintaining about two hundred computers and maintaining its networks. 
 
 ## PUBLICATIONS
 * Journals:
-1. R Jayadi, Y.-C. Lai, and L.-C. Chen, ìAn Interleaved-Sleeping- Listening Scheduler for Power Saving in Mobile Stations,î accepted for publication in Computer & Electrical Engineering, 2018
-2. R. Jayadi, Y.-C. Lai, and C.-C. Lin, ìEfficient time-oriented anti-collision protocol for RFID tag identification,î Computer Communication., vol. 112, pp. 141ñ153, 2017.
-Conferences:
-3. R Jayadi, Y.-C. Lai, and L.-C. Chen, ìAn Interleaved-Sleeping-Listening Algorithm for Power-Saving Scheduling in Mobile Networks,î in International Multi-Conference on Engineering and Technology Innovation, Hua-Lien, Taiwan, October 2017.
-4. R. Jayadi and Y.-C. Lai, ìLow-Overhead Multihop Device-to-Device Communications in Software Defined Wireless Networks,î in Soft Computing, Intelligent System and Information Technology (ICSIIT), 2017 International Conference on, 2017, pp. 144ñ149.
-5. Y. C. Lai, R. Jayadi, and J. N. Lai, ìA multi-hop relay path selection algorithm considering path channel quality and coordinating with bandwidth allocation,î in IOP Conference Series: Materials Science and Engineering, 2017, vol. 273, no. 1, p. 12003. 
-6. R. Jayadi and Y.-C. Lai, ìUser cooperation in a multi-hop network with multi-interface devices for energy efficiency,î in Wireless and Mobile (APWiMob), 2016 IEEE Asia Pacific Conference on, 2016, pp. 92ñ98.
+1. R Jayadi, Y.-C. Lai, and L.-C. Chen, ‚ÄúAn Interleaved-Sleeping- Listening Scheduler for Power Saving in Mobile Stations,‚Äù accepted for publication in Computer & Electrical Engineering, 2018
+2. R. Jayadi, Y.-C. Lai, and C.-C. Lin, ‚ÄúEfficient time-oriented anti-collision protocol for RFID tag identification,‚Äù Computer Communication., vol. 112, pp. 141‚Äì153, 2017.
+
+* Conferences:
+3. R Jayadi, Y.-C. Lai, and L.-C. Chen, ‚ÄúAn Interleaved-Sleeping-Listening Algorithm for Power-Saving Scheduling in Mobile Networks,‚Äù in International Multi-Conference on Engineering and Technology Innovation, Hua-Lien, Taiwan, October 2017.
+4. R. Jayadi and Y.-C. Lai, ‚ÄúLow-Overhead Multihop Device-to-Device Communications in Software Defined Wireless Networks,‚Äù in Soft Computing, Intelligent System and Information Technology (ICSIIT), 2017 International Conference on, 2017, pp. 144‚Äì149.
+5. Y. C. Lai, R. Jayadi, and J. N. Lai, ‚ÄúA multi-hop relay path selection algorithm considering path channel quality and coordinating with bandwidth allocation,‚Äù in IOP Conference Series: Materials Science and Engineering, 2017, vol. 273, no. 1, p. 12003. 
+6. R. Jayadi and Y.-C. Lai, ‚ÄúUser cooperation in a multi-hop network with multi-interface devices for energy efficiency,‚Äù in Wireless and Mobile (APWiMob), 2016 IEEE Asia Pacific Conference on, 2016, pp. 92‚Äì98.
