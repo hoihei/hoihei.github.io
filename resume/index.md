@@ -12,10 +12,10 @@ I have been in software development in 8+ years from web applications developmen
 ## EDUCATIONS
 
 ### Aug 2013 ~ Jul 2018: Ph.D. Program of Information Management, National Taiwan University of Science and Technology (NTUST), Taiwan. 
-GPA 3.9 out of 4. Currently, I have been satisfied the requirement for applying Ph.D. degree oral exam. The oral exam is scheduled in the in the coming month. I have published two scientific journal papers and have spoken at four scientific conferences. 
+GPA 3.8 out of 4. I published two scientific journal papers and have spoken at four scientific conferences. 
 
 ### Aug 2012 ~ Jul 2013: Master Program of Information Management, National Taiwan University of Science and Technology (NTUST), Taiwan. 
-GPA 3.86 out of 4. I passed 21 credit courses then accepted for transferring to Ph.D. 
+I passed 21 credit courses then accepted for transferring to Ph.D. 
 
 ### Sept 2007 ~ Aug 2011: Undergraduate Degree of Information System, Institut Teknologi Sepuluh Nopember (ITS) Surabaya, Indonesia. 
 GPA 3.32 out of 4.
