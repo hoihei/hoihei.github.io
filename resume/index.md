@@ -7,11 +7,11 @@ RIYANTO JAYADI
 * Languages: Indonesia (Native), English (Fluent), Chinese (Basic)
 
 ## QUALIFICATION SUMMARIES
-I have been in software development in 8+ years from web applications development, data science, to the researcher on development of communication & network protocols. Currently, I am an all-but-dissertation Ph.D. candidate and have authored two published scientific journals. I am confident that I will be granted Ph.D. degree soon as my advisor has confirmed that I have met the requirements for the the oral exam. My advisor plans to schedule my oral exam in the coming month. Thus, I am looking forward to any open job position in a company that I can help to grow after I graduate in the near future.
+I have been in software development in 8+ years from web applications development, data science, to the researcher on development of communication & network protocols. 
 
 ## EDUCATIONS
 
-### Aug 2013 ~ Jul 2018 (scheduled): Ph.D. Program of Information Management, National Taiwan University of Science and Technology (NTUST), Taiwan. 
+### Aug 2013 ~ Jul 2018: Ph.D. Program of Information Management, National Taiwan University of Science and Technology (NTUST), Taiwan. 
 GPA 3.9 out of 4. Currently, I have been satisfied the requirement for applying Ph.D. degree oral exam. The oral exam is scheduled in the in the coming month. I have published two scientific journal papers and have spoken at four scientific conferences. 
 
 ### Aug 2012 ~ Jul 2013: Master Program of Information Management, National Taiwan University of Science and Technology (NTUST), Taiwan. 
@@ -40,13 +40,9 @@ The following are the technical skills I have and technologies that I have exper
 * Miscellaneous Technology: Hadoop, Kafka, ZeroMQ, Subversion, Git, Jupiter Notebook, LaTex
 
 # EXPERIENCES
-### 2012 – Now: Research Assistant in High Speed and Wireless Network Lab, Information Management Dept., NTUST, Taiwan
+### 2012 – 2018: Research Assistant in High Speed and Wireless Network Lab, Information Management Dept., NTUST, Taiwan
 
 I  am researching RFID, energy efficiency, wireless network protocol development, 4G, future 5G, device-to-device, mobile user cooperation, software-defined-network, and OpenFlow under direct advisory of Prof. Yuan Cheng Lai. I also help for preparing several course materials for my advisor on computer networking course and scientific writing course. I also have been working on the academic-industrial collaboration project that belongs to my advisors. Besides of that, I also have several open source projects that I personally develop and maintain in my GitHub account.
-
-### 2013 ~ Now: Part-time Maintenance Staff in Secretary Office of Information Management Dept., NTUST, Taiwan. 
-
-I am working as part-time on helping department staff maintaining the offices and classrooms in this department since 2013 until now. 
 
 
 ### Jan 2012 ~ Sep 2012: Programmer in BeenaryLab 
