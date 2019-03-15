@@ -6,43 +6,18 @@ RIYANTO JAYADI
 * Nationality: Indonesia
 * Languages: Indonesia (Native), English (Fluent), Chinese (Basic)
 
+![Riyanto Jayadi](https://hoihei.github.io/resume/photo.jpg)
+
 ## Research Interests
 Computer(Wired, Wireless, Mobile) Networking, Data Science, Management Information System
 
-## QUALIFICATION SUMMARIES
+## Profile Summaries
 I have been in software development in 8+ years from web applications development, data science, to the researcher on development computer network protocols. 
 
-## EDUCATIONS
-
-### Aug 2013 ~ Jul 2018: Ph.D. Program of Information Management, National Taiwan University of Science and Technology (NTUST), Taiwan. 
-GPA 3.8 out of 4. I published two scientific journal papers and have spoken at four scientific conferences. 
-
-### Aug 2012 ~ Jul 2013: Master Program of Information Management, National Taiwan University of Science and Technology (NTUST), Taiwan. 
-I passed 21 credit courses then accepted for transferring to Ph.D. 
-
-### Sept 2007 ~ Aug 2011: Undergraduate Degree of Information System, Institut Teknologi Sepuluh Nopember (ITS) Surabaya, Indonesia. 
-GPA 3.32 out of 4.
-
-### Sep 2017 ~ EPT UI Certification  (TOEFL ITP Prediction): Score 583
-
-
-## TECHNICAL SKILLS
-
-The following are the technical skills I have and technologies that I have experienced with:
- 
-* Programming: Python, Java, Ruby, PHP, JavaScript, C, C++, Bash/Shell, R
-* Network: Network Protocol Development, 4G, LTE, WiMax, RFID, NS3 Network Simulation, CORE Network Emulator, Software-Defined-Network, OpenFlow, CCNA
-* AI & Machine Learning: TensorFlow, Theano, Keras, Scikit-Learn
-* Python: Pandas, Numpy, SciPy, NetworkX, MatPlotLib, Seaborn, Webapp2, Flask,
-* Java: Android, JSP, Spring, Struts, Hibernate 
-* Ruby: Ruby On Rails,  Koala, Scrappy 
-* PHP: Codeigniter, PHPCake, Kohana 
-* Javascript: NodeJs, Ext JS,  JQuery
-* Server/Cloud: OpenStack, Google Cloud, Amazon Web Service, Virtual Private Server, Linux, 
-* Database: PostgreSQL, MongoDB, Google Cloud SQL, Firebase, MySQL, Microsoft SQL Server, Oracle 
-* Miscellaneous Technology: Hadoop, Kafka, ZeroMQ, Subversion, Git, Jupiter Notebook, LaTex
-
 # EXPERIENCES
+### 2018 - Now: Lecturer in Bina Nusantara University
+I am currently teaching Business Intelegence & Business Analytic. Meanwhile, I am conducting research in area of Computer(Wired, Wireless, Mobile) Networking, Data Science, and Management Information System.
+
 ### 2012 – 2018: Research Assistant in High Speed and Wireless Network Lab, Information Management Dept., NTUST, Taiwan
 
 I  am researching RFID, energy efficiency, wireless network protocol development, 4G, future 5G, device-to-device, mobile user cooperation, software-defined-network, and OpenFlow under direct advisory of Prof. Yuan Cheng Lai. I also help for preparing several course materials for my advisor on computer networking course and scientific writing course. I also have been working on the academic-industrial collaboration project that belongs to my advisors. Besides of that, I also have several open source projects that I personally develop and maintain in my GitHub account.
@@ -79,6 +54,7 @@ In the operation system course and database course, my duties involved on checki
 5. Y. C. Lai, R. Jayadi, and J. N. Lai, “A multi-hop relay path selection algorithm considering path channel quality and coordinating with bandwidth allocation,” in IOP Conference Series: Materials Science and Engineering, 2017, vol. 273, no. 1, p. 12003. 
 6. R. Jayadi and Y.-C. Lai, “User cooperation in a multi-hop network with multi-interface devices for energy efficiency,” in Wireless and Mobile (APWiMob), 2016 IEEE Asia Pacific Conference on, 2016, pp. 92–98.
 
+
 ## Awards
 * 2013 ~ 2018: Scholarship of Ph.D. Program (fast-track transfer from Master) in NTUST, Taiwan
 * 2012 ~ 2013: Scholarship of Master Program in NTUST, Taiwan
@@ -86,3 +62,34 @@ In the operation system course and database course, my duties involved on checki
 * 2011 : Top five of Mandiri Young Technopreneur Award. A National ICT Technopreneur competition  by Mandiri Bank, Jakarta, Indonesia
 * 2011 : Top five of Telkom Indigo Fellowship. A national business software application by  Telkom, Jakarta, Indonesia
 
+## EDUCATIONS
+
+### Aug 2013 ~ Jul 2018: Ph.D. Program of Information Management, National Taiwan University of Science and Technology (NTUST), Taiwan. 
+GPA 3.8 out of 4. I published two scientific journal papers and have spoken at four scientific conferences. 
+
+### Aug 2012 ~ Jul 2013: Master Program of Information Management, National Taiwan University of Science and Technology (NTUST), Taiwan. 
+I passed 21 credit courses then accepted for transferring to Ph.D. 
+
+### Sept 2007 ~ Aug 2011: Undergraduate Degree of Information System, Institut Teknologi Sepuluh Nopember (ITS) Surabaya, Indonesia. 
+GPA 3.32 out of 4.
+
+### Certification 
+* Sep 2017 ~ TOEFL ITP: Score 560
+
+
+
+## TECHNICAL SKILLS
+
+The following are the technical skills I have and technologies that I have experienced with:
+ 
+* Programming: Python, Java, Ruby, PHP, JavaScript, C, C++, Bash/Shell, R
+* Network: Network Protocol Development, 4G, LTE, WiMax, RFID, NS3 Network Simulation, CORE Network Emulator, Software-Defined-Network, OpenFlow, CCNA
+* AI & Machine Learning: TensorFlow, Theano, Keras, Scikit-Learn
+* Python: Pandas, Numpy, SciPy, NetworkX, MatPlotLib, Seaborn, Webapp2, Flask,
+* Java: Android, JSP, Spring, Struts, Hibernate 
+* Ruby: Ruby On Rails,  Koala, Scrappy 
+* PHP: Codeigniter, PHPCake, Kohana 
+* Javascript: NodeJs, Ext JS,  JQuery
+* Server/Cloud: OpenStack, Google Cloud, Amazon Web Service, Virtual Private Server, Linux, 
+* Database: PostgreSQL, MongoDB, Google Cloud SQL, Firebase, MySQL, Microsoft SQL Server, Oracle 
+* Miscellaneous Technology: Hadoop, Kafka, ZeroMQ, Subversion, Git, Jupiter Notebook, LaTex
