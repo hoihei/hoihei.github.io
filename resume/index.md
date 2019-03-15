@@ -6,8 +6,11 @@ RIYANTO JAYADI
 * Nationality: Indonesia
 * Languages: Indonesia (Native), English (Fluent), Chinese (Basic)
 
+## Research Interest
+Computer(Wired, Wireless, Mobile) Networking, Data Science, Management Information System
+
 ## QUALIFICATION SUMMARIES
-I have been in software development in 8+ years from web applications development, data science, to the researcher on development of communication & network protocols. 
+I have been in software development in 8+ years from web applications development, data science, to the researcher on development computer network protocols. 
 
 ## EDUCATIONS
 
