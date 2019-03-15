@@ -6,7 +6,7 @@ RIYANTO JAYADI
 * Nationality: Indonesia
 * Languages: Indonesia (Native), English (Fluent), Chinese (Basic)
 
-## Research Interest
+## Research Interests
 Computer(Wired, Wireless, Mobile) Networking, Data Science, Management Information System
 
 ## QUALIFICATION SUMMARIES
