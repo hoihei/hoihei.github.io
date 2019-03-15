@@ -18,7 +18,7 @@ I have been in software development in 8+ years from web applications developmen
 
 # EXPERIENCES
 ### 2018 - Now: Lecturer in Bina Nusantara University
-I am currently teaching Business Intelegence & Business Analytic. Meanwhile, I am conducting research in area of Computer(Wired, Wireless, Mobile) Networking, Data Science, and Management Information System.
+I am currently teaching Business Intelegence & Business Analytic; Management Information System for Leaders. I am also conducting research in area of Computer(Wired, Wireless, Mobile) Networking, Data Science, and Management Information System.
 
 ### 2012 – 2018: Research Assistant in High Speed and Wireless Network Lab, Information Management Dept., NTUST, Taiwan
 
