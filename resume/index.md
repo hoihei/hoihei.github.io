@@ -6,7 +6,9 @@ RIYANTO JAYADI
 * Nationality: Indonesia
 * Languages: Indonesia (Native), English (Fluent), Chinese (Basic)
 
-![Riyanto Jayadi](https://hoihei.github.io/resume/photo.jpg =250x)
+<img src="https://hoihei.github.io/resume/photo.jpg" alt="drawing" width="200"/>
+
+![Riyanto Jayadi](https://hoihei.github.io/resume/photo.jpg)
 
 ## Research Interests
 Computer(Wired, Wireless, Mobile) Networking, Data Science, Management Information System
