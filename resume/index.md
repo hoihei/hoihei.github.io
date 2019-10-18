@@ -1,7 +1,6 @@
 RIYANTO JAYADI
 ================
 
-* Birth of Year: 1988
 * Gender: Male
 * Nationality: Indonesia
 * Languages: Indonesia (Native), English (Fluent), Chinese (Basic)
@@ -14,7 +13,7 @@ RIYANTO JAYADI
 Computer(Wired, Wireless, Mobile) Networking, Data Science, Management Information System
 
 ## Profile Summaries
-I have been in software development in 8+ years from web applications development, data science, to the researcher on development computer network protocols. 
+I have been in software development in 8+ years from software development, data science,and  computer network. 
 
 # EXPERIENCES
 ### 2018 - Now: Lecturer in Bina Nusantara University
