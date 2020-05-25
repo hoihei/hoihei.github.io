@@ -17,7 +17,7 @@ I have been in software development in 8+ years from software development, data 
 
 # EXPERIENCES
 ### 2018 - Now: Lecturer in Bina Nusantara University
-I am currently teaching Business Intelegence & Business Analytic; Management Information System for Leaders. I am also conducting research in area of Computer(Wired, Wireless, Mobile) Networking, Data Science, and Management Information System.
+I am conducting research in area of Computer --Wired, Wireless, Mobile-- Networking, Data Science, and Management Information System. I am currently teaching Business Intelligence & Business Analytic; Project & Change Management; Management Information System for Leaders; Cyber & Digital Marketing Communication Strategy; Entrepreneurship: Ideation. 
 
 ### 2012 – 2018: Research Assistant in High Speed and Wireless Network Lab, Information Management Dept., NTUST, Taiwan
 
@@ -45,15 +45,57 @@ I was selected as manager for self-organized student dormitory in which the resp
 In the operation system course and database course, my duties involved on checking every task, tests keeper and training students on learning a databases technology and operating system * Lab Admins: I was responsible on installing and maintaining about two hundred computers and maintaining its networks. 
 
 ## PUBLICATIONS
-* Journals:
-1. R. Jayadi, Y.-C. Lai, and L.-C. Chen, “An Interleaved-Sleeping-Listening scheduler for power saving in mobile stations,” Computer & Electrical Engineering, vol. 67, pp. 278–290, Apr. 2018.
-2. R. Jayadi, Y.-C. Lai, and C.-C. Lin, “Efficient time-oriented anti-collision protocol for RFID tag identification,” Computer Communication., vol. 112, pp. 141–153, 2017.
+### 2019
 
-* Conferences:
-3. R Jayadi, Y.-C. Lai, and L.-C. Chen, “An Interleaved-Sleeping-Listening Algorithm for Power-Saving Scheduling in Mobile Networks,” in International Multi-Conference on Engineering and Technology Innovation, Hua-Lien, Taiwan, October 2017.
-4. R. Jayadi and Y.-C. Lai, “Low-Overhead Multihop Device-to-Device Communications in Software Defined Wireless Networks,” in Soft Computing, Intelligent System and Information Technology (ICSIIT), 2017 International Conference on, 2017, pp. 144–149.
-5. Y. C. Lai, R. Jayadi, and J. N. Lai, “A multi-hop relay path selection algorithm considering path channel quality and coordinating with bandwidth allocation,” in IOP Conference Series: Materials Science and Engineering, 2017, vol. 273, no. 1, p. 12003. 
-6. R. Jayadi and Y.-C. Lai, “User cooperation in a multi-hop network with multi-interface devices for energy efficiency,” in Wireless and Mobile (APWiMob), 2016 IEEE Asia Pacific Conference on, 2016, pp. 92–98.
+#### Journal
+
+- Jayadi, R., Firmantyo, H. M., Dzaka, M.T.J., Suaidy, M. F., & Putra, A. M. (2019). Employee Performance Prediction using Naïve Bayes. *International Journal of Advanced Trends in Computer Science and Engineering*, *8*, 3031–3035.
+
+#### Conferences
+
+- Sriratnasari, S. R., Wang, G., Kaburuan, E. R., & Jayadi, R. (2019). Integrated Smart Transportation using IoT at DKI Jakarta. *2019 International Conference on Information Management and Technology (ICIMTech)*, *1*, 531–536. Jakarta: IEEE.
+
+- Rahyadi, I., Jayadi, R., & Pamungkas, H. (2019). How To Do It? Communication for Managing Cafe in Pekalongan. *ICCD*, *2*(1), 235–238. Jakarta.
+
+- Bernanda, D. Y., Wang, G., Kaburuan, E. R., & Jayadi, R. (2019). Influence of physical and network security on company efficiency using SEM. *Journal of Physics: Conference Series*, *1367*(1), 12013. IOP Publishing.
+
+- Nurcahyo, A., Wang, G., Kaburuan, E., & Jayadi, R. (2019). Gamification Design for Indonesian On-Demand Staffing Platform. *2019 7th International Conference on Cyber and IT Service Management (CITSM)*, *7*, 1–6. IEEE.
+
+- Kaburuan, E. R., & Jayadi, R. (2019). A Design of IoT-based Monitoring System for Intelligence Indoor Micro-Climate Horticulture Farming in Indonesia. *Procedia Computer Science*, *157*, 459–464.
+
+- Anggraini, N., Kaburuan, E. R., Wang, G., & Jayadi, R. (2019). Usability Study and Users’ Perception of Smartwatch: Study on Indonesian Customer. *Procedia Computer Science*, *161*, 1266–1274.
+
+### 2018
+
+#### Journals
+
+- Jayadi, R., Lai, Y.-C., & Chen, L.-C. (2018). An Interleaved-Sleeping-Listening scheduler for power saving in mobile stations. *Computers and Electrical Engineering*, *67*.
+
+#### Conferences
+
+- Lai, Y.-C., Jayadi, R., Huang, S.-C., & Chen, Y.-H. (2018). Query Tree with Knowledge-based Splitting for RFID Tag Identification. *Proceedings of the 2018 International Conference on Sensors, Signal and Image Processing*, 24–28.
+
+### 2017
+
+#### Journals
+
+- Jayadi, R., Lai, Y.-C., & Lin, C.-C. (2017). Efficient time-oriented anti-collision protocol for RFID tag identification. *Computer Communications*, *112*.
+
+#### Conferences
+
+- Jayadi, R., & Lai, Y.-C. (2017). Low-overhead multihop device-to-device communications in software defined wireless networks. *Proceedings - 2017 International Conference on Soft Computing, Intelligent System and Information Technology: Building Intelligence Through IOT and Big Data, ICSIIT 2017*
+
+- Jayadi, R., & Lai, Y.-C. (2017). User cooperation in a multi-hop network with multi-interface devices for energy efficiency. *APWiMob 2016 - IEEE Asia Pacific Conference on Wireless and Mobile 2016, Conference Proceedings*.
+
+- Lai, Y. C., Jayadi, R., & Lai, J. N. (2017). A multi-hop relay path selection algorithm considering path channel quality and coordinating with bandwidth allocation. *IOP Conference Series: Materials Science and Engineering*, *273*(1).
+
+- Jayadi, R., & Lai, Y.-C. (2017). Low-Overhead Multihop Device-to-Device Communications in Software Defined Wireless Networks. *2017 International Conference on Soft Computing, Intelligent System and Information Technology (ICSIIT)*, 144–149. IEEE.
+
+### 2016
+
+#### Conferences
+
+- Jayadi, R. , & Lai, Y.-C. (2016). User cooperation in a multi-hop network with multi-interface devices for energy efficiency. *Wireless and Mobile (APWiMob), 2016 IEEE Asia Pacific Conference On*, 92–98. IEEE.
 
 
 ## Awards
@@ -82,7 +124,7 @@ GPA 3.32 out of 4.
 ## TECHNICAL SKILLS
 
 The following are the technical skills I have and technologies that I have experienced with:
- 
+
 * Programming: Python, Java, Ruby, PHP, JavaScript, C, C++, Bash/Shell, R
 * Network: Network Protocol Development, 4G, LTE, WiMax, RFID, NS3 Network Simulation, CORE Network Emulator, Software-Defined-Network, OpenFlow, CCNA
 * AI & Machine Learning: TensorFlow, Theano, Keras, Scikit-Learn
