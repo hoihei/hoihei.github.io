@@ -1,14 +1,11 @@
 RIYANTO JAYADI
 ================
-* ***Assistant Professor at Management Information System (MIS), Graduate Program, Bina Nusantara (BINUS) University***
-* Nationality: Indonesia
-* Languages: Indonesia (Native), English (Fluent), Chinese (Basic)
+***Assistant Professor at Management Information System (MIS), Graduate Program, Bina Nusantara (BINUS) University***
 
-- Email: riyanto.jayadi@binus.edu
-- Linkedin: https://www.linkedin.com/in/riyanto-hoi-jayadi/
-- Google scholar: https://scholar.google.com.tw/citations?user=GR1tihAAAAAJ&hl=en
-- Scopus: https://www.scopus.com/authid/detail.uri?authorId=57217056183
-- Blog: https://riyanto-hoi-jayadi.blogspot.com/
+- Linkedin: [https://www.linkedin.com/in/riyanto-hoi-jayadi/](https://www.linkedin.com/in/riyanto-hoi-jayadi/)
+- Google scholar: [https://scholar.google.com.tw/citations?user=GR1tihAAAAAJ&hl=en](https://scholar.google.com.tw/citations?user=GR1tihAAAAAJ&hl=en)
+- Scopus: [https://www.scopus.com/authid/detail.uri?authorId=57217056183](https://www.scopus.com/authid/detail.uri?authorId=57217056183)
+- Blog: [https://riyanto-hoi-jayadi.blogspot.com/](https://riyanto-hoi-jayadi.blogspot.com/)
 
 ### Picture
 
@@ -108,8 +105,6 @@ I passed 21 credit courses then accepted for transferring to Ph.D.
 ### Sept 2007 ~ Aug 2011: Undergraduate Degree of Information System, Institut Teknologi Sepuluh Nopember (ITS) Surabaya, Indonesia. 
 GPA 3.32 out of 4.
 
-### Certification 
-* Sep 2017 ~ TOEFL ITP: Score 560
 
 
 
@@ -156,3 +151,10 @@ I was selected as manager for self-organized student dormitory in which the resp
 ### Aug 2008 ~ Sep 2010: Asistant Lecturer of Information System Department, Institut Teknologi Sepuluh Nopember, Surabaya
 
 In the operation system course and database course, my duties involved on checking every task, tests keeper and training students on learning a databases technology and operating system * Lab Admins: I was responsible on installing and maintaining about two hundred computers and maintaining its networks. 
+
+
+### Misc 
+* Languages: 
+- Indonesia (Native)
+- English (Sep 2017 ~ TOEFL ITP: Score 560)
+- Chinese (Basic)
