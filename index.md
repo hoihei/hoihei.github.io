@@ -1,6 +1,4 @@
-Assistant Professor at Management Information System (MIS), Graduate Program, Bina Nusantara (BINUS) University
-================
-
+**Assistant Professor at Management Information System (MIS), Graduate Program, Bina Nusantara (BINUS) University**
 
 - Linkedin: [https://www.linkedin.com/in/riyanto-hoi-jayadi/](https://www.linkedin.com/in/riyanto-hoi-jayadi/)
 - Google scholar: [https://scholar.google.com.tw/citations?user=GR1tihAAAAAJ&hl=en](https://scholar.google.com.tw/citations?user=GR1tihAAAAAJ&hl=en)
