@@ -1,25 +1,30 @@
-**Assistant Professor at Management Information System (MIS), Graduate Program, Bina Nusantara (BINUS) University**
+# **Riyanto Jayadi** 
 
-- Linkedin: [https://www.linkedin.com/in/riyanto-hoi-jayadi/](https://www.linkedin.com/in/riyanto-hoi-jayadi/)
-- Google scholar: [https://scholar.google.com.tw/citations?user=GR1tihAAAAAJ&hl=en](https://scholar.google.com.tw/citations?user=GR1tihAAAAAJ&hl=en)
-- Scopus: [https://www.scopus.com/authid/detail.uri?authorId=57217056183](https://www.scopus.com/authid/detail.uri?authorId=57217056183)
-- Blog: [https://riyanto-hoi-jayadi.blogspot.com/](https://riyanto-hoi-jayadi.blogspot.com/)
-
-### Picture
+**Assistant Professor Management Information System (MIS), Graduate Program, Bina Nusantara (BINUS) University**
 
 <img src="https://hoihei.github.io/photo.jpg" alt="drawing" width="200"/>
 
 ## Research Interests
 
-Data science, Big Data Analytics, Business Intelligence, Cloud Computing, Emerging Technologies (Voice Assistant, Blockchain, AI IoT), User behavior (Habit-forming Apps, Internet/Smartphone addiction), Microservice, Computer Network (5G, Mobile, Wireless, Wired, Security)Profile Summaries
+Computer Network, Applied Data science, Applied Big Data Analytics, Business Intelligence, Cloud Computing, Emerging Technologies (Voice Assistant, Blockchain, AI IoT), User behavior (Habit-forming Apps, Internet/Smartphone addiction), Microservices
+
+## Contacts & Links
+
+- Email: riyanto.jayadi@binus.edu
+- Scopus: [https://www.scopus.com/authid/detail.uri?authorId=57217056183](https://www.scopus.com/authid/detail.uri?authorId=57217056183)
+- Google scholar: [https://scholar.google.com.tw/citations?user=GR1tihAAAAAJ&hl=en](https://scholar.google.com.tw/citations?user=GR1tihAAAAAJ&hl=en)
+- SINTA: http://sinta.ristekbrin.go.id/authors/detail?id=6691218&view=overview
+- Linkedin: [https://www.linkedin.com/in/riyanto-hoi-jayadi/](https://www.linkedin.com/in/riyanto-hoi-jayadi/)
+- Blog: [https://riyanto-hoi-jayadi.blogspot.com/](https://riyanto-hoi-jayadi.blogspot.com/)
 
 ## Course Taught
 
-- Business Intelligence and Analytics (Master)
-- Project and Change Management (Master)
-- Cyber Digital Marketing & Communication (Master)
-- Management Information System (Undergraduate)
-- Entrepreneurship (Undergraduate)
+- Business Intelligence and Analytics (Master Program)
+- Project and Change Management (Master Program)
+- Cyber Digital Marketing & Communication (Master Program)
+- Business Process Management (Undergraduate Program)
+- Management Information System (Undergraduate Program)
+- Entrepreneurship (Undergraduate Program)
 
 
 ## EDUCATIONS
@@ -33,60 +38,47 @@ Data science, Big Data Analytics, Business Intelligence, Cloud Computing, Emergi
 ## PUBLICATIONS
 ### 2020
 #### Journal
-- Zelalem Legese Hailemariam, Yuan-Cheng Lai, Riyanto Jayadi, Yen-Hung Chen, Sheng-Chi Huang. (2020). A knowledge-based Query Tree with Shortcutting and Couple-Resolution for RFID tag identification. *Computer Communications*, *160*
+- Zelalem Legese Hailemariam, Yuan-Cheng Lai, Riyanto Jayadi, Yen-Hung Chen, Sheng-Chi Huang. (2020). A knowledge-based Query Tree with Shortcutting and Couple-Resolution for RFID tag identification. *Computer Communications*, *160*. https://doi.org/10.1016/j.comcom.2020.06.025
+- Viega, M.T., Marvin, E., Jayadi, R., Mauritsius, T.. (2020. Heart Disease Prediction System using Data Mining Classification Techniques: Naïve Bayes, KNN, and Decision Tree. *International Journal of Advanced Trends in Computer Science and Engineering*, 9(3). https://doi.org//10.30534/ijatcse/2020/82932020 
 
 ### 2019
 #### Journal
 - Jayadi, R., Firmantyo, H. M., Dzaka, M.T.J., Suaidy, M. F., & Putra, A. M. (2019). Employee Performance Prediction using Naïve Bayes. *International Journal of Advanced Trends in Computer Science and Engineering*, *8*, 3031–3035. https://doi.org/10.1016/j.comcom.2020.06.025)
 
 #### Conferences
-- Sriratnasari, S. R., Wang, G., Kaburuan, E. R., & Jayadi, R. (2019). Integrated Smart Transportation using IoT at DKI Jakarta. *2019 International Conference on Information Management and Technology (ICIMTech)*, *1*, 531–536. Jakarta: IEEE.
-- Rahyadi, I., Jayadi, R., & Pamungkas, H. (2019). How To Do It? Communication for Managing Cafe in Pekalongan. *ICCD*, *2*(1), 235–238. Jakarta.
-- Bernanda, D. Y., Wang, G., Kaburuan, E. R., & Jayadi, R. (2019). Influence of physical and network security on company efficiency using SEM. *Journal of Physics: Conference Series*, *1367*(1), 12013. IOP Publishing.
-- Nurcahyo, A., Wang, G., Kaburuan, E., & Jayadi, R. (2019). Gamification Design for Indonesian On-Demand Staffing Platform. *2019 7th International Conference on Cyber and IT Service Management (CITSM)*, *7*, 1–6. IEEE.
-- Kaburuan, E. R., & Jayadi, R. (2019). A Design of IoT-based Monitoring System for Intelligence Indoor Micro-Climate Horticulture Farming in Indonesia. *Procedia Computer Science*, *157*, 459–464.
-- Anggraini, N., Kaburuan, E. R., Wang, G., & Jayadi, R. (2019). Usability Study and Users’ Perception of Smartwatch: Study on Indonesian Customer. *Procedia Computer Science*, *161*, 1266–1274.
+- Kaburuan, E. R., & Jayadi, R. (2019). A Design of IoT-based Monitoring System for Intelligence Indoor Micro-Climate Horticulture Farming in Indonesia. *Procedia Computer Science*, *157*, 459–464. https://doi.org/10.1016/j.procs.2019.09.001
+- Sriratnasari, S. R., Wang, G., Kaburuan, E. R., & Jayadi, R. (2019). Integrated Smart Transportation using IoT at DKI Jakarta. *2019 International Conference on Information Management and Technology (ICIMTech)*, *1*, 531–536. Jakarta: IEEE. https://doi.org/10.1109/ICIMTech.2019.8843747
+- Rahyadi, I., Jayadi, R., & Pamungkas, H. (2019). How To Do It? Communication for Managing Cafe in Pekalongan. *ICCD*, *2*(1), 235–238. Jakarta. https://doi.org/10.33068/iccd.Vol2.Iss1.218
+- Bernanda, D. Y., Wang, G., Kaburuan, E. R., & Jayadi, R. (2019). Influence of physical and network security on company efficiency using SEM. *Journal of Physics: Conference Series*, *1367*(1), 12013. IOP Publishing. https://doi.org/10.1088/1742-6596/1367/1/012013
+- Nurcahyo, A., Wang, G., Kaburuan, E., & Jayadi, R. (2019). Gamification Design for Indonesian On-Demand Staffing Platform. *2019 7th International Conference on Cyber and IT Service Management (CITSM)*, *7*, 1–6. IEEE. https://doi.org/10.1088/1742-6596/1367/1/012013
+- Anggraini, N., Kaburuan, E. R., Wang, G., & Jayadi, R. (2019). Usability Study and Users’ Perception of Smartwatch: Study on Indonesian Customer. *Procedia Computer Science*, *161*, 1266–1274. https://doi.org/10.1016/j.procs.2019.11.241
 ### 2018
 #### Journals
-- Jayadi, R., Lai, Y.-C., & Chen, L.-C. (2018). An Interleaved-Sleeping-Listening scheduler for power saving in mobile stations. *Computers and Electrical Engineering*, *67*.
+- Jayadi, R., Lai, Y.-C., & Chen, L.-C. (2018). An Interleaved-Sleeping-Listening scheduler for power saving in mobile stations. *Computers and Electrical Engineering*, *67*. https://doi.org/10.1016/j.compeleceng.2018.03.017
 #### Conferences
-- Lai, Y.-C., Jayadi, R., Huang, S.-C., & Chen, Y.-H. (2018). Query Tree with Knowledge-based Splitting for RFID Tag Identification. *Proceedings of the 2018 International Conference on Sensors, Signal and Image Processing*, 24–28.
+- Lai, Y.-C., Jayadi, R., Huang, S.-C., & Chen, Y.-H. (2018). Query Tree with Knowledge-based Splitting for RFID Tag Identification. *Proceedings of the 2018 International Conference on Sensors, Signal and Image Processing*, 24–28. https://doi.org/10.1145/3290589.3290592
 ### 2017
 #### Journals
-- Jayadi, R., Lai, Y.-C., & Lin, C.-C. (2017). Efficient time-oriented anti-collision protocol for RFID tag identification. *Computer Communications*, *112*.
+- Jayadi, R., Lai, Y.-C., & Lin, C.-C. (2017). Efficient time-oriented anti-collision protocol for RFID tag identification. *Computer Communications*, *112*. https://doi.org/10.1016/j.comcom.2017.08.016
 #### Conferences
-- Jayadi, R., & Lai, Y.-C. (2017). Low-overhead multihop device-to-device communications in software defined wireless networks. *Proceedings - 2017 International Conference on Soft Computing, Intelligent System and Information Technology: Building Intelligence Through IOT and Big Data, ICSIIT 2017*
-- Jayadi, R., & Lai, Y.-C. (2017). User cooperation in a multi-hop network with multi-interface devices for energy efficiency. *APWiMob 2016 - IEEE Asia Pacific Conference on Wireless and Mobile 2016, Conference Proceedings*.
-- Lai, Y. C., Jayadi, R., & Lai, J. N. (2017). A multi-hop relay path selection algorithm considering path channel quality and coordinating with bandwidth allocation. *IOP Conference Series: Materials Science and Engineering*, *273*(1).
-- Jayadi, R., & Lai, Y.-C. (2017). Low-Overhead Multihop Device-to-Device Communications in Software Defined Wireless Networks. *2017 International Conference on Soft Computing, Intelligent System and Information Technology (ICSIIT)*, 144–149. IEEE.
+- Jayadi, R., & Lai, Y.-C. (2017). Low-overhead multihop device-to-device communications in software defined wireless networks. *Proceedings - 2017 International Conference on Soft Computing, Intelligent System and Information Technology: Building Intelligence Through IOT and Big Data, ICSIIT 2017*. https://doi.org/10.1109/ICSIIT.2017.30
+- Jayadi, R., & Lai, Y.-C. (2017). User cooperation in a multi-hop network with multi-interface devices for energy efficiency. *APWiMob 2016 - IEEE Asia Pacific Conference on Wireless and Mobile 2016, Conference Proceedings*. https://doi.org/10.1109/APWiMob.2016.7811450
+- Lai, Y. C., Jayadi, R., & Lai, J. N. (2017). A multi-hop relay path selection algorithm considering path channel quality and coordinating with bandwidth allocation. *IOP Conference Series: Materials Science and Engineering*, *273*(1). https://doi.org/10.1088/1757-899X/245/1/012003
+- Jayadi, R., & Lai, Y.-C. (2017). Low-Overhead Multihop Device-to-Device Communications in Software Defined Wireless Networks. *2017 International Conference on Soft Computing, Intelligent System and Information Technology (ICSIIT)*, 144–149. IEEE. https://doi.org/10.1109/ICSIIT.2017.30
 
 ### 2016
 #### Conferences
-- Jayadi, R. , & Lai, Y.-C. (2016). User cooperation in a multi-hop network with multi-interface devices for energy efficiency. *Wireless and Mobile (APWiMob), 2016 IEEE Asia Pacific Conference On*, 92–98. IEEE.
+- Jayadi, R. , & Lai, Y.-C. (2016). User cooperation in a multi-hop network with multi-interface devices for energy efficiency. *Wireless and Mobile (APWiMob), 2016 IEEE Asia Pacific Conference On*, 92–98. IEEE. https://doi.org/10.1109/APWiMob.2016.7811450
 
 ## Students & Alumni Advisee
 
-
-## TECHNICAL SKILLS
-The following are the technical skills I have and technologies that I have experienced with:
-* Machine learning tools: Scikt-learn, Rapidminer, Knime Weka
-* Programming: Python, Java, Ruby, PHP, JavaScript, C, C++, Bash/Shell, R
-* Network: Network Protocol Development, 4G, LTE, WiMax, RFID, NS3 Network Simulation, CORE Network Emulator, Software-Defined-Network, OpenFlow, CCNA
-* AI & Machine Learning: TensorFlow, Theano, Keras, Scikit-Learn
-* Python: Pandas, Numpy, SciPy, NetworkX, MatPlotLib, Seaborn, Webapp2, Flask,
-* Java: Android, JSP, Spring, Struts, Hibernate 
-* Ruby: Ruby On Rails,  Koala, Scrappy 
-* PHP: Codeigniter, PHPCake, Kohana 
-* Javascript: NodeJs, Ext JS,  JQuery
-* Server/Cloud: OpenStack, Google Cloud, Amazon Web Service, Virtual Private Server, Linux, 
-* Database: PostgreSQL, MongoDB, Google Cloud SQL, Firebase, MySQL, Microsoft SQL Server, Oracle 
-* Miscellaneous Technology: Hadoop, Kafka, ZeroMQ, Subversion, Git, Jupiter Notebook, LaTex
-
 ## Selected Community Services
-* Implementation of Android-based Point-of Sale System at Krapyak Lor, Pekalongan
+
+* Implementation of Android-based Point-of Sale System at Krapyak Lor, Pekalongan, Indonesia
 
 ## EXPERIENCES
 ### 2018 - Now: Lecturer in Bina Nusantara University
+
 I am currently teaching Business Intelligence & Business Analytic; Project & Change Management; Management Information System for Leaders; Cyber & Digital Marketing Communication Strategy; Entrepreneurship: Ideation. My research research in area of Computer --Wired, Wireless, Mobile-- Networking, Data Science, and Management Information System. 
 
 ### 2012 – 2018: Research Assistant in High Speed and Wireless Network Lab, Information Management Dept., NTUST, Taiwan
@@ -119,3 +111,20 @@ In the operation system course and database course, my duties involved on checki
 * 2012 : Incubated for 6 months in Telkom Indonesia Startup Incubation Program. 
 * 2011 : Top five of Mandiri Young Technopreneur Award. A National ICT Technopreneur competition  by Mandiri Bank, Jakarta, Indonesia
 * 2011 : Top five of Telkom Indigo Fellowship. A national business software application by  Telkom, Jakarta, Indonesia
+
+## TECHNICAL SKILLS
+
+The following are the technical skills I have and technologies that I have experienced with:
+
+* Machine learning tools: Scikt-learn, Rapidminer, Knime Weka
+* Programming: Python, Java, Ruby, PHP, JavaScript, C, C++, Bash/Shell, R
+* Network: Network Protocol Development, 4G, LTE, WiMax, RFID, NS3 Network Simulation, CORE Network Emulator, Software-Defined-Network, OpenFlow, CCNA
+* AI & Machine Learning: TensorFlow, Theano, Keras, Scikit-Learn
+* Python: Pandas, Numpy, SciPy, NetworkX, MatPlotLib, Seaborn, Webapp2, Flask,
+* Java: Android, JSP, Spring, Struts, Hibernate 
+* Ruby: Ruby On Rails,  Koala, Scrappy 
+* PHP: Codeigniter, PHPCake, Kohana 
+* Javascript: NodeJs, Ext JS,  JQuery
+* Server/Cloud: OpenStack, Google Cloud, Amazon Web Service, Virtual Private Server, Linux, 
+* Database: PostgreSQL, MongoDB, Google Cloud SQL, Firebase, MySQL, Microsoft SQL Server, Oracle 
+* Miscellaneous Technology: Hadoop, Kafka, ZeroMQ, Subversion, Git, Jupiter Notebook, LaTex
