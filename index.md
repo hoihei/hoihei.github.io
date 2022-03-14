@@ -110,14 +110,19 @@ http://www.jatit.org/volumes/Vol99No20/13Vol99No20.pdf](http://www.jatit.org/vol
 ## Research Fund Granted
 * 2021 ~ 2023: A Development Of Intelligent Systems for Micro-Climate Based on Internet-Of-Things To Increase Horticultural Production. ≈USD14,000 for 3 Years
 
-## Selected Community Services
-* 2021\. Assesor of Sistem Pemerintahan Berbasis Elektronik SPBE (E-Goverment). Ministry of State Apparatus Utilization and Bureaucratic Reform, Indonesia
-* 2018\. Implementation of Android-based Point-of Sale System at Krapyak Lor, Pekalongan, Indonesia
-
-## Selected Professional Services
+### Selected Professional Services
 * 2021\. Python for Machine Learning. PT PLN Indonesia
 * 2019\. Web Programming Spring Boot Training. PT Pegadaian
 * 2019\. Middleware SOA WebMethod Training. Bank Mandiri
+
+### Selected Public Services
+* 2021\. Assesor of Sistem Pemerintahan Berbasis Elektronik SPBE (E-Goverment). Ministry of State Apparatus Utilization and Bureaucratic Reform, Indonesia
+* 2018\. Implementation of Android-based Point-of Sale System at Krapyak Lor, Pekalongan, Indonesia
+
+
+## Academic Paper Reviewers
+* [IEEE Access](https://ieeeaccess.ieee.org/). 6 Reviews
+* [Jurnal Manajemen Industri dan Logistik](https://jurnal.poltekapp.ac.id/index.php/JMIL/). 5 Reviews
 
 
 ## EXPERIENCES
@@ -140,13 +145,6 @@ My duties in this jobs were software developer on 3 information systems applicat
 
 ### Aug 2008 ~ Sep 2010: Asistant Lecturer of Information System Department, Institut Teknologi Sepuluh Nopember, Surabaya
 In the operation system course and database course, my duties involved on checking every task, tests keeper and training students on learning a databases technology and operating system * Lab Admins: I was responsible on installing and maintaining about two hundred computers and maintaining its networks. 
-
-
-### Misc 
-* Languages: 
-- Indonesia (Native)
-- English (Sep 2017 ~ TOEFL ITP: Score 560)
-- Chinese (Basic)
 
 
 ## Awards
@@ -172,3 +170,9 @@ The following are the technical skills I have and technologies that I have exper
 * Server/Cloud: OpenStack, Google Cloud, Amazon Web Service, Virtual Private Server, Linux, 
 * Database: PostgreSQL, MongoDB, Google Cloud SQL, Firebase, MySQL, Microsoft SQL Server, Oracle 
 * Miscellaneous Technology: Hadoop, Kafka, ZeroMQ, Subversion, Git, Jupiter Notebook, LaTex
+
+## Languages
+	- Indonesia (Native)
+	- English (Sep 2017 ~ TOEFL ITP: Score 560)
+	- Chinese (Basic)
+
