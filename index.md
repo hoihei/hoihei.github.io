@@ -111,13 +111,13 @@ http://www.jatit.org/volumes/Vol99No20/13Vol99No20.pdf](http://www.jatit.org/vol
 * 2021 ~ 2023: A Development Of Intelligent Systems for Micro-Climate Based on Internet-Of-Things To Increase Horticultural Production. ≈USD14,000 for 3 Years
 
 ## Selected Community Services
-* 2021. Assesor of Sistem Pemerintahan Berbasis Elektronik SPBE (E-Goverment). Ministry of State Apparatus Utilization and Bureaucratic Reform, Indonesia
-* 2018. Implementation of Android-based Point-of Sale System at Krapyak Lor, Pekalongan, Indonesia
+* 2021\. Assesor of Sistem Pemerintahan Berbasis Elektronik SPBE (E-Goverment). Ministry of State Apparatus Utilization and Bureaucratic Reform, Indonesia
+* 2018\. Implementation of Android-based Point-of Sale System at Krapyak Lor, Pekalongan, Indonesia
 
 ## Selected Professional Services
-* 2021. Python for Machine Learning. PT PLN Indonesia
-* 2019. Web Programming Spring Boot Training. PT Pegadaian
-* 2019. Middleware SOA WebMethod Training. Bank Mandiri
+* 2021\. Python for Machine Learning. PT PLN Indonesia
+* 2019\. Web Programming Spring Boot Training. PT Pegadaian
+* 2019\. Middleware SOA WebMethod Training. Bank Mandiri
 
 ## Students & Alumni Advisee
 
