@@ -26,9 +26,13 @@ Computer Network, Applied Data science, Applied Big Data Analytics, Business Int
 - Sept 2007 ~ Aug 2011: Undergraduate Degree of Information System, Institut Teknologi Sepuluh Nopember (ITS) Surabaya, Indonesia. 
 
 ## Links
+- OrcID: [https://orcid.org/0000-0002-6656-8817](https://orcid.org/0000-0002-6656-8817)
+- Publons: [https://publons.com/researcher/3859238/riyanto-jayadi/](https://publons.com/researcher/3859238/riyanto-jayadi/)
+- Reserchgate: (https://www.researchgate.net/profile/Riyanto-Jayadi)[https://www.researchgate.net/profile/Riyanto-Jayadi]
 - Youtube: [https://www.youtube.com/channel/UC389YXdc6h7tq4XuNktxQPw](https://www.youtube.com/channel/UC389YXdc6h7tq4XuNktxQPw)
 - Linkedin: [https://www.linkedin.com/in/riyanto-hoi-jayadi/](https://www.linkedin.com/in/riyanto-hoi-jayadi/)
 - Facebook: [https://facebook.com/riyanto.jayadi/](https://facebook.com/riyanto.jayadi/)
+
 
 ## PUBLICATIONS
 
