@@ -119,8 +119,6 @@ http://www.jatit.org/volumes/Vol99No20/13Vol99No20.pdf](http://www.jatit.org/vol
 * 2019\. Web Programming Spring Boot Training. PT Pegadaian
 * 2019\. Middleware SOA WebMethod Training. Bank Mandiri
 
-## Students & Alumni Advisee
-
 
 ## EXPERIENCES
 ### 2018 - Now: Lecturer in Bina Nusantara University
