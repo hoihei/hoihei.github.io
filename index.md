@@ -32,7 +32,7 @@ Computer Network, Applied Data science, Applied Big Data Analytics, Business Int
 - Youtube: [https://www.youtube.com/channel/UC389YXdc6h7tq4XuNktxQPw](https://www.youtube.com/channel/UC389YXdc6h7tq4XuNktxQPw)
 - Linkedin: [https://www.linkedin.com/in/riyanto-hoi-jayadi/](https://www.linkedin.com/in/riyanto-hoi-jayadi/)
 - Facebook: [https://facebook.com/riyanto.jayadi/](https://facebook.com/riyanto.jayadi/)
-
+- Github: [https://github.com/hoihei](https://github.com/hoihei)
 
 ## PUBLICATIONS
 
@@ -108,7 +108,7 @@ http://www.jatit.org/volumes/Vol99No20/13Vol99No20.pdf](http://www.jatit.org/vol
 - Jayadi, R. , & Lai, Y.-C. (2016). User cooperation in a multi-hop network with multi-interface devices for energy efficiency. *Wireless and Mobile (APWiMob), 2016 IEEE Asia Pacific Conference On*, 92–98. IEEE. [https://doi.org/10.1109/APWiMob.2016.7811450](https://doi.org/10.1109/APWiMob.2016.7811450)
 
 ## Research Fund Granted
-- 2019 ~ 2022: A Development Of Intelligent Systems for Micro-Climate Based on Internet-Of-Things To Increase Horticultural Production. 70
+- 2021 ~ 2023: A Development Of Intelligent Systems for Micro-Climate Based on Internet-Of-Things To Increase Horticultural Production. ≈USD14,000 for 3 Years
 
 ## Selected Community Services
 - 2021. Assesor of Sistem Pemerintahan Berbasis Elektronik SPBE (E-Goverment). Ministry of State Apparatus Utilization and Bureaucratic Reform, Indonesia
