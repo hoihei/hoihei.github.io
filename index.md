@@ -8,15 +8,6 @@
 
 Computer Network, Applied Data science, Applied Big Data Analytics, Business Intelligence, Cloud Computing, Emerging Technologies (Voice Assistant, Blockchain, AI IoT), User behavior (Habit-forming Apps, Internet/Smartphone addiction), Microservices
 
-## Contacts & Links
-
-- Email: riyanto.jayadi@binus.edu
-- Scopus: [https://www.scopus.com/authid/detail.uri?authorId=57217056183](https://www.scopus.com/authid/detail.uri?authorId=57217056183)
-- Google scholar: [https://scholar.google.com.tw/citations?user=GR1tihAAAAAJ&hl=en](https://scholar.google.com.tw/citations?user=GR1tihAAAAAJ&hl=en)
-- SINTA: http://sinta.ristekbrin.go.id/authors/detail?id=6691218&view=overview
-- Linkedin: [https://www.linkedin.com/in/riyanto-hoi-jayadi/](https://www.linkedin.com/in/riyanto-hoi-jayadi/)
-- Blog: [https://riyanto-hoi-jayadi.blogspot.com/](https://riyanto-hoi-jayadi.blogspot.com/)
-
 ## Course Taught
 
 - Business Intelligence and Analytics (Master Program)
@@ -24,34 +15,69 @@ Computer Network, Applied Data science, Applied Big Data Analytics, Business Int
 - Cyber Digital Marketing & Communication (Master Program)
 - Business Process Management (Undergraduate Program)
 - Management Information System (Undergraduate Program)
+- Intorduction to Database System (Undergraduate Program)
 - Entrepreneurship (Undergraduate Program)
 
 
 ## EDUCATIONS
 
 - Aug 2013 ~ Jul 2018: Ph.D. Program of Information Management, National Taiwan University of Science and Technology (NTUST), Taiwan.
-
 -  Aug 2012 ~ Jul 2013 [Fast tracked to PhD] : Master Program of Information Management, National Taiwan University of Science and Technology (NTUST), Taiwan. 
-
 - Sept 2007 ~ Aug 2011: Undergraduate Degree of Information System, Institut Teknologi Sepuluh Nopember (ITS) Surabaya, Indonesia. 
 
 ## PUBLICATIONS
+
+### Recent updates:
+
+- Scopus: [https://www.scopus.com/authid/detail.uri?authorId=57217056183](https://www.scopus.com/authid/detail.uri?authorId=57217056183)
+- Google scholar: [https://scholar.google.com.tw/citations?user=GR1tihAAAAAJ&hl=en](https://scholar.google.com.tw/citations?user=GR1tihAAAAAJ&hl=en)
+- SINTA: http://sinta.ristekbrin.go.id/authors/detail?id=6691218&view=overview
+
+### 2022
+#### Journal
+- Alexandra, J., & Jayadi, R. (2022). Mobile Application System Integrated With Voice Assistant To Enhance Student’s Learning Process . Journal of Theoretical and Applied Information Technology, 100(1), 15-25. http://www.jatit.org/volumes/onehundred01.php
+
+
+### 2021
+#### Journal
+- Hadju, S. F. N., & Jayadi, R. (2021). Sentiment analysis of Indonesian e-commerce product reviews using support vector machine based term frequency inverse document frequency. Journal of Theoretical and Applied Information Technology, 99(17), 4316–4325. http://www.jatit.org/volumes/Vol99No17/9Vol99No17.pdf
+Indriasari, T. F., & Jayadi, R. (2021). An empirical study of mobile ticketing service adoption in rapid transit: Evidence from Jakarta. Journal of Theoretical and Applied Information Technology, 99(8), 1740–1752. http://www.jatit.org/volumes/Vol99No8/4Vol99No8.pdf
+- Fajar, A. N., Jayadi, R., Kaburuan, E. R., Bhudiawan, M., Dewi, A. A. I. K. G., Sebastian, A., & Indriasari, T. F. (2021). Designing of urban farming systems based on internet of things. Journal of Theoretical and Applied Information Technology, 99(15), 3902–3911. http://www.jatit.org/volumes/Vol99No15/17Vol99No15.pdf
+- Setiani, D. I., Nasafi, F., Mauritsius, T., Kaburuan, E. R., & Jayadi, R. (2021). Data mining implementation with association method and apriori algorithm for store display design in home center indonesia. ICIC Express Letters, 15(11), 1221–1226. https://doi.org/10.24507/icicel.15.11.1221
+- Putra, P., Jayadi, R., & Steven, I. (2021). The Impact of Quality and Price on the Loyalty of Electronic Money Users: Empirical Evidence from Indonesia. Journal of Asian Finance, Economics and Business, 8(3), 1349–1359. https://doi.org/10.13106/jafeb.2021.vol8.no3.1349
+- Steven, I., Jayadi, R., & Putra, P. (2021). Factors that affect user’s interest in using whatsapp: Evidence from Jakarta metropolitan area. Journal of Theoretical and Applied Information Technology, 99(3), 605–614. http://www.jatit.org/volumes/Vol99No3/5Vol99No3.pdf
+- Wirawan, E. Y., & Jayadi, R. (2021). Business study of network provider development in XYZ industry area with NNI modeling (network to network interface) as a stage towards smart industrial park. Journal of Theoretical and Applied Information Technology, 99(6), 1361–1372. http://www.jatit.org/volumes/Vol99No6/11Vol99No6.pdf
+- Yuniati, D., & Jayadi, R. (2021). Analysis and design of voice assistant for Indonesian banking transaction. Journal of Theoretical and Applied Information Technology, 99(20), 4808–4823. http://www.jatit.org/volumes/Vol99No20/13Vol99No20.pdf
+
+
+#### Conferences
+- Bimantoro, A. S., Jayadi, R., & Legowo, N. (2021). Analysis and design of CRM system for PT. askrindo. Paper presented at the Proceedings of 2021 International Conference on Information Management and Technology, ICIMTech 2021, 148-153. https://doi.org/10.1109/ICIMTech53080.2021.9535040
+- Wirawan, E. Y., Jayadi, R., & Ardhyogi, G. (2021). Effectiveness of microducts as alternative to deploying optical cables to support smart infrastructure. Paper presented at the 8th International Conference on ICT for Smart Society: Digital Twin for Smart Society, ICISS 2021 - Proceeding, https://doi.org/10.1109/ICISS53185.2021.9533207
+- Zhao, M. A., & Jayadi, R. (2021). Forecasting daily visitors and menu demands in an indonesian chain restaurant using support vector regression machine. Paper presented at the AIMS 2021 - International Conference on Artificial Intelligence and Mechatronics Systems, https://doi.org/10.1109/AIMS52415.2021.9466036
+
+
 ### 2020
 #### Journal
-- Zelalem Legese Hailemariam, Yuan-Cheng Lai, Riyanto Jayadi, Yen-Hung Chen, Sheng-Chi Huang. (2020). A knowledge-based Query Tree with Shortcutting and Couple-Resolution for RFID tag identification. *Computer Communications*, *160*. https://doi.org/10.1016/j.comcom.2020.06.025
-- Viega, M.T., Marvin, E., Jayadi, R., Mauritsius, T.. (2020. Heart Disease Prediction System using Data Mining Classification Techniques: Naïve Bayes, KNN, and Decision Tree. *International Journal of Advanced Trends in Computer Science and Engineering*, 9(3). https://doi.org//10.30534/ijatcse/2020/82932020 
+- Hailemariam, Z. L., Lai, Y.-C., Jayadi, R., Chen, Y.-H., & Huang, S.-C. (2020). A knowledge-based query tree with shortcutting and couple-resolution for RFID tag identification. Computer Communications, 160, 779-789. https://doi.org/10.1016/j.comcom.2020.06.025
+- Mufarih, M., Jayadi, R., & Sugandi, Y. (2020). Factors influencing customers to use digital banking application in yogyakarta, indonesia. Journal of Asian Finance, Economics and Business, 7(10), 897-908. https://doi.org/10.13106/jafeb.2020.vol7.no10.897 
+
+#### Conferences
+- Mauritsius, T., Alatas, S., Binsar, F., Jayadi, R., & Legowo, N. (2020). Promo abuse modeling in e-commerce using machine learning approach. Paper presented at the 2020 8th International Conference on Orange Technology, ICOT 2020, https://doi.org/10.1109/ICOT51877.2020.9468744
+- Miliano, A., Steven, I., Kosim, K. P., Jayadi, R., & Mauritsius, T. (2020). Machine learning-based automated problem categorization in a helpdesk ticketing application. Paper presented at the 2020 8th International Conference on Orange Technology, ICOT 2020, https://doi.org/10.1109/ICOT51877.2020.9468789
+- Putra, P., Wijaya, S., Wirahaditenaya, Z. A., Jayadi, R., & Mauritsius, T. (2020). Predicting network bandwidth usage: Case study at PT. bank ABC. Paper presented at the 2020 IEEE International Conference on Communication, Networks and Satellite, Comnetsat 2020 - Proceedings, 227-233. https://doi.org/10.1109/Comnetsat50391.2020.9328970
 
 ### 2019
 #### Journal
 - Jayadi, R., Firmantyo, H. M., Dzaka, M.T.J., Suaidy, M. F., & Putra, A. M. (2019). Employee Performance Prediction using Naïve Bayes. *International Journal of Advanced Trends in Computer Science and Engineering*, *8*, 3031–3035. https://doi.org/10.1016/j.comcom.2020.06.025)
 
 #### Conferences
+- Anggraini, N., Kaburuan, E. R., Wang, G., & Jayadi, R. (2019). Usability Study and Users’ Perception of Smartwatch: Study on Indonesian Customer. *Procedia Computer Science*, *161*, 1266–1274. https://doi.org/10.1016/j.procs.2019.11.241
+- Nurcahyo, A., Wang, G., Kaburuan, E., & Jayadi, R. (2019). Gamification Design for Indonesian On-Demand Staffing Platform. *2019 7th International Conference on Cyber and IT Service Management (CITSM)*, *7*, 1–6. IEEE. https://doi.org/10.1088/1742-6596/1367/1/012013
 - Kaburuan, E. R., & Jayadi, R. (2019). A Design of IoT-based Monitoring System for Intelligence Indoor Micro-Climate Horticulture Farming in Indonesia. *Procedia Computer Science*, *157*, 459–464. https://doi.org/10.1016/j.procs.2019.09.001
 - Sriratnasari, S. R., Wang, G., Kaburuan, E. R., & Jayadi, R. (2019). Integrated Smart Transportation using IoT at DKI Jakarta. *2019 International Conference on Information Management and Technology (ICIMTech)*, *1*, 531–536. Jakarta: IEEE. https://doi.org/10.1109/ICIMTech.2019.8843747
 - Rahyadi, I., Jayadi, R., & Pamungkas, H. (2019). How To Do It? Communication for Managing Cafe in Pekalongan. *ICCD*, *2*(1), 235–238. Jakarta. https://doi.org/10.33068/iccd.Vol2.Iss1.218
 - Bernanda, D. Y., Wang, G., Kaburuan, E. R., & Jayadi, R. (2019). Influence of physical and network security on company efficiency using SEM. *Journal of Physics: Conference Series*, *1367*(1), 12013. IOP Publishing. https://doi.org/10.1088/1742-6596/1367/1/012013
-- Nurcahyo, A., Wang, G., Kaburuan, E., & Jayadi, R. (2019). Gamification Design for Indonesian On-Demand Staffing Platform. *2019 7th International Conference on Cyber and IT Service Management (CITSM)*, *7*, 1–6. IEEE. https://doi.org/10.1088/1742-6596/1367/1/012013
-- Anggraini, N., Kaburuan, E. R., Wang, G., & Jayadi, R. (2019). Usability Study and Users’ Perception of Smartwatch: Study on Indonesian Customer. *Procedia Computer Science*, *161*, 1266–1274. https://doi.org/10.1016/j.procs.2019.11.241
+
 ### 2018
 #### Journals
 - Jayadi, R., Lai, Y.-C., & Chen, L.-C. (2018). An Interleaved-Sleeping-Listening scheduler for power saving in mobile stations. *Computers and Electrical Engineering*, *67*. https://doi.org/10.1016/j.compeleceng.2018.03.017
