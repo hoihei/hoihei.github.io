@@ -13,6 +13,7 @@ Computer Network, Applied Data science, Applied Big Data Analytics, Business Int
 - Business Intelligence and Analytics (Master Program)
 - Project and Change Management (Master Program)
 - Cyber Digital Marketing & Communication (Master Program)
+- Information Technology Infrastructure (Undergraduate Program)
 - Business Process Management (Undergraduate Program)
 - Management Information System (Undergraduate Program)
 - Intorduction to Database System (Undergraduate Program)
@@ -26,6 +27,9 @@ Computer Network, Applied Data science, Applied Big Data Analytics, Business Int
 - Sept 2007 ~ Aug 2011: Undergraduate Degree of Information System, Institut Teknologi Sepuluh Nopember (ITS) Surabaya, Indonesia. 
 
 ## Links
+- Scopus: [https://www.scopus.com/authid/detail.uri?authorId=57217056183](https://www.scopus.com/authid/detail.uri?authorId=57217056183)
+- Google scholar: [https://scholar.google.com.tw/citations?user=GR1tihAAAAAJ&hl=en](https://scholar.google.com.tw/citations?user=GR1tihAAAAAJ&hl=en)
+- SINTA: [http://sinta.ristekbrin.go.id/authors/detail?id=6691218&view=overview](http://sinta.ristekbrin.go.id/authors/detail?id=6691218&view=overview)
 - OrcID: [https://orcid.org/0000-0002-6656-8817](https://orcid.org/0000-0002-6656-8817)
 - Publons: [https://publons.com/researcher/3859238/riyanto-jayadi/](https://publons.com/researcher/3859238/riyanto-jayadi/)
 - Reserchgate: (https://www.researchgate.net/profile/Riyanto-Jayadi)[https://www.researchgate.net/profile/Riyanto-Jayadi]
@@ -45,7 +49,16 @@ Computer Network, Applied Data science, Applied Big Data Analytics, Business Int
 ### 2022
 #### Journal
 - Alexandra, J., & Jayadi, R. (2022). Mobile Application System Integrated With Voice Assistant To Enhance Student’s Learning Process . Journal of Theoretical and Applied Information Technology, 100(1), 15-25. [http://www.jatit.org/volumes/onehundred01.php](http://www.jatit.org/volumes/onehundred01.php)
-
+- Aliandy, G. E., & Jayadi, R. (2022). Denial of Service Classification on Message Queueing Telemetry Transport Protocol at Indonesia Oil Services Company. Journal of Theoretical and Applied Information Technology, 100(7), 2289–2299. [http://www.jatit.org/volumes/Vol100No7/25Vol100No7.pdf]
+- Fajar, A. N., Jayadi, R., Halim, J., & Robertson, B. (2022). Mobile Application For Agrotechnology Systems Using Internet of Things (IoT). Journal of System and Management Sciences, 12(3), 104–116. [https://doi.org/10.33168/JSMS.2022.0306]
+- Ridipurnomo, & Jayadi, R. (2022). Understanding Employee Security Behavior in Using Information System of Organizations: Evidence from Jakarta Greater Area, Indonesia. Journal of Theoretical and Applied Information Technology, 100(12), 3874–3884. [http://www.jatit.org/volumes/Vol100No12/5Vol100No12.pdf]
+- Fathoni, F., & Jayadi, R. (2022). Fundraising Decision Support System on Indonesia’s Oil Palm Public Service Agency Using Kimball-Ross Four-Step Dimensional Process And Metabase Dashboard. Journal of Theoretical and Applied Information Technology, 100(14), 5060–5071. [http://www.jatit.org/volumes/Vol100No14/1Vol100No14.pdf]
+- Pradipta, R., & Jayadi, R. (2022). The Sentiment Analysis of The Indonesian Palm Oil Industry in Social Media Using A Machine Learning Model. Journal of Theoretical and Applied Information Technology, 100(12), 4532–4542. [http://www.jatit.org/volumes/Vol100No12/21Vol100No12.pdf]
+- Sebastian, A., & Jayadi, R. (2022). Internet Of Things Concept Implementation for Microgreen Farming Automation With Gamification Principles. Journal of Theoretical and Applied Information Technology, 100(5), 1275–1286. [http://www.jatit.org/volumes/Vol100No5/7Vol100No5.pdf]
+- Chrysmien, & Jayadi, R. (2022). Comparison Stock Price Prediction Between Arima, Multiple Linear Regression and LSTM Models By Adding Stock Sentiment Analysis And USD/IDR Fluctuation. Journal of Theoretical and Applied Information Technology, 100(4), 1158–1169. [http://www.jatit.org/volumes/Vol100No4/23Vol100No4.pdf]
+- Amin, A. L., & Jayadi, R. (2022). Impact of Scrum Practice on Software Development In Individual And Team Performance During Covid-19 Pandemic. Journal of Theoretical and Applied Information Technology, 100(12), 3860–3873. [http://www.jatit.org/volumes/Vol100No12/4Vol100No12.pdf]
+- Deva, B. S., & Jayadi, R. (2022). Analysis of Risk and Information Security in a System Integrator Company Using the Octave Allegro Method (Analisis Risiko dan Keamanan Informasi pada Sebuah Perusahaan System Integrator Menggunakan Metode Octave Allegro). Jurnal Teknologi dan Informasi, 12(2), 1-12. [https://doi.org/10.34010/jati.v12i2.6829]
+- Nurzaman, A. F., & Jayadi, R. Dashboard System for Predicting Student Practicum Performance Using the Data Mining Method. CESS (Journal of Computer Engineering, System and Science), 7(2), 394-406. [https://doi.org/10.24114/cess.v7i2.35394]
 
 ### 2021
 #### Journal
