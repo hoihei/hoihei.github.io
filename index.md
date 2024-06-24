@@ -39,31 +39,27 @@ Computer Network, Applied Data science, Applied Big Data Analytics, Business Int
 
 - SINTA: [http://sinta.ristekbrin.go.id/authors/detail?id=6691218&view=overview](http://sinta.ristekbrin.go.id/authors/detail?id=6691218&view=overview)
 
-## Research Fund Granted
-
-* 2024: A Development Of Intelligent Systems for Micro-Climate Based on Internet-Of-Things To Increase Horticultural Production. ≈USD14,000 for 3 Years. Indonesian Ministry of Education and Research
-* 2023 ~ 2021 : A Development Of Intelligent Systems for Micro-Climate Based on Internet-Of-Things To Increase Horticultural Production. ≈USD14,000 for 3 Years. Indonesian Ministry of Education and Research
 
 ### 2024
 
 #### Journal
 
-- Evan, F., & Jayadi, R. (2024). A Prototype System Design for Microgreens Iot-Based Smart Vertical Farm. Journal of System and Management Sciences, 14(1), 188–202. https://doi.org/10.33168/JSMS.2024.0112
-- Wibisono, A. B., & Jayadi, R. (2024). Experimental IoT System to Maintain Water Quality in Catfish Pond. International Journal of Advanced Computer Science and Applications, 15(3), 393–399. https://doi.org/10.14569/IJACSA.2024.0150340
+- Evan, F., & Jayadi, R. (2024). A Prototype System Design for Microgreens Iot-Based Smart Vertical Farm. Journal of System and Management Sciences, 14(1), 188–202. [https://doi.org/10.33168/JSMS.2024.0112](https://doi.org/10.33168/JSMS.2024.0112)
+- Wibisono, A. B., & Jayadi, R. (2024). Experimental IoT System to Maintain Water Quality in Catfish Pond. International Journal of Advanced Computer Science and Applications, 15(3), 393–399. [https://doi.org/10.14569/IJACSA.2024.0150340](https://doi.org/10.14569/IJACSA.2024.0150340)
 
 #### Conferences
 
-- Fajar, A. N., Jayadi, R., Dyaz, S., Setiawan, G., & Bhudiawan, M. (2024). Designing IoT urban farming monitoring systems for supporting smart farming. AIP Conference Proceedings, 2927(1). https://doi.org/10.1063/5.0205234
+- Fajar, A. N., Jayadi, R., Dyaz, S., Setiawan, G., & Bhudiawan, M. (2024). Designing IoT urban farming monitoring systems for supporting smart farming. AIP Conference Proceedings, 2927(1). [https://doi.org/10.1063/5.0205234](https://doi.org/10.1063/5.0205234)
 
 ### 2023
 
 #### Journal
 
-- Asriny, D. M., & Jayadi, R. (2023). Transfer Learning VGG16 for Classification Orange Fruit Images. Journal of System and Management Sciences, 13(1), 206–217. https://doi.org/10.33168/JSMS.2023.0112
-- Jericho, I., & Jayadi, R. (2023). An Empirical Study on the Factors Affecting Intention to Use 5G Technology. Journal of System and Management Sciences, 13(2), 301–315. https://doi.org/10.33168/JSMS.2023.0221
+- Asriny, D. M., & Jayadi, R. (2023). Transfer Learning VGG16 for Classification Orange Fruit Images. Journal of System and Management Sciences, 13(1), 206–217. [https://doi.org/10.33168/JSMS.2023.0112](https://doi.org/10.33168/JSMS.2023.0112)
+- Jericho, I., & Jayadi, R. (2023). An Empirical Study on the Factors Affecting Intention to Use 5G Technology. Journal of System and Management Sciences, 13(2), 301–315. [https://doi.org/10.33168/JSMS.2023.0221](https://doi.org/10.33168/JSMS.2023.0221)
 - Vincenzo, Y., & Jayadi, R. (2023). Important factors that affect customer satisfaction with digital banks in Indonesia. J. Theor. Appl. Inf. Technol, 101, 1341–1352.
-- Matheus, F., & Jayadi, R. (2023). Which Gating System Can Prevent Addiction to Online Games? International Journal of Computer Games Technology, 2023. https://doi.org/10.1155/2023/4490133
-- Wildan, M., & Jayadi, R. (2023). Internet of Things Design Architecture Development for Controlling and Monitoring Hydroponic Plants. Journal of Theoretical and Applied Information Technology, 101(8), 2983–2995. https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163515759&partnerID=40&md5=952d31ec329099baa93f770469a22145
+- Matheus, F., & Jayadi, R. (2023). Which Gating System Can Prevent Addiction to Online Games? International Journal of Computer Games Technology, 2023. [https://doi.org/10.1155/2023/4490133](https://doi.org/10.1155/2023/4490133)
+- Wildan, M., & Jayadi, R. (2023). Internet of Things Design Architecture Development for Controlling and Monitoring Hydroponic Plants. Journal of Theoretical and Applied Information Technology, 101(8), 2983–2995. [https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163515759&partnerID=40&md5=952d31ec329099baa93f770469a22145](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163515759&partnerID=40&md5=952d31ec329099baa93f770469a22145)
 - Audri Pranata, Y., & Jayadi, R. (2023). Addiction Analysis and Neuroticism of Use of Instagram Social Media on Productive Age in Java Island. Journal of Theoretical and Applied Information Technology, 101(3), 1078–1094. https://www.scopus.com/inward/record.uri?eid=2-s2.0-85153797868&partnerID=40&md5=07792537746085968f58ac1b493ddca1
 - Njoo, D. H., & Jayadi, R. (2023). Analyzing Factors Between YouTube Usage and Addiction in Indonesia. Journal of Theoretical and Applied Information Technology, 101(1), 182–193. https://www.scopus.com/inward/record.uri?eid=2-s2.0-85146262208&partnerID=40&md5=137adf6556a161cc96324fd58feebcae
 - Wibisono, A. B., & Jayadi, R. (2023). Design Architecture Development of IOT-Based Catfish Control and Monitoring. Journal of Theoretical and Applied Information Technology, 101(11), 4449–4458. https://www.scopus.com/inward/record.uri?eid=2-s2.0-85166430470&partnerID=40&md5=d423178d7093f7766023c3a466f12c7c
@@ -188,14 +184,19 @@ Computer Network, Applied Data science, Applied Big Data Analytics, Business Int
 
 - Jayadi, R. , & Lai, Y.-C. (2016). User cooperation in a multi-hop network with multi-interface devices for energy efficiency. *Wireless and Mobile (APWiMob), 2016 IEEE Asia Pacific Conference On*, 92–98. IEEE. [https://doi.org/10.1109/APWiMob.2016.7811450](https://doi.org/10.1109/APWiMob.2016.7811450)
 
-## Industry Projects/ Professional Services
+
+## Research Fund Granted
+
+* 2023 ~ 2021 : A Development Of Intelligent Systems for Micro-Climate Based on Internet-Of-Things To Increase Horticultural Production. ≈USD14,000 for 3 Years. Indonesian Ministry of Education and Research
+
+## Industry Projects / Professional Services
 
 * 2024\. Requirment Tracability Matrix. PT. Mandiri Taspen
 * 2023\. Data Science Summer Youth Program. Ministry of Education and Research Indonesia
 * 2023\. IT Service Management. Ministry of Foreign Affair Indonesia
 * 2023\. Apache NiFi. Ministry of Foreign Affair Indonesia
 * 2023\. Data Visualization. Ministry of Foreign Affair Indonesia
-* 2023\ Tableau. Bank Tabungan Negara
+* 2023\. Tableau. Bank Tabungan Negara
 * 2023\. Data Science. PT. Pegadaian
 * 2023\. Data Science. Bank CIMB Niaga
 * 2023~2022\. Data Science. PT. Astra Honda Motor
@@ -224,21 +225,13 @@ I am currently teaching Business Intelligence & Business Analytic; Project & Cha
 
 I  was researching RFID, energy efficiency, wireless network protocol development, 4G, future 5G, device-to-device, mobile user cooperation, software-defined-network, and OpenFlow under direct advisory of Prof. Yuan Cheng Lai. I also help for preparing several course materials for my advisor on computer networking course and scientific writing course. I also have been working on the academic-industrial collaboration project that belongs to my advisors. Besides of that, I also have several open source projects that I personally develop and maintain in my GitHub account.
 
-### Jan 2012 ~ Sep 2012: Programmer in BeenaryLab
+### Jan 2010 ~ Sep 2012: Programmer in Arfa Nusantara Technology (Software House); BeenaryLab (Startup)
 
-It was an incubated startup, founded with my friends, with the product is a shopping cart mobile application that uses QR-Code and NFC for the transaction. 
-
-### Aug 2010 ~ Jan 2012: Programmer in Arfa Nusantara Technology
-
-I was working for architecting, developing and maintaining multiple software development project on this software house company. These projects are mainly using PHP, MySQL, PostgreSQL, and JQuery.
-
-### Sep 2009 – Aug 2010: Programmer in East Java Development Planning Agency
-
-My duties in this jobs were software developer on 3 information systems application that is using Oracle and PHP and one profile website that using Joomla for this region governmental office.
+It was an incubated startup, founded with my friends, with the product is a shopping cart mobile application that uses QR-Code and NFC for the transaction in BeenaryLab; I was also working for a software house for architecting, developing and maintaining multiple software development project on this software house company. These projects are mainly using PHP, MySQL, PostgreSQL, and JQuery. 
 
 ### Aug 2008 ~ Sep 2010: Asistant Lecturer of Information System Department, Institut Teknologi Sepuluh Nopember, Surabaya
 
-In the operation system course and database course, my duties involved on checking every task, tests keeper and training students on learning a databases technology and operating system * Lab Admins: I was responsible on installing and maintaining about two hundred computers and maintaining its networks. 
+I was an assitant lecturer for operation system course and database course, my duties involved on checking every task, tests keeper and training students on learning a databases technology and operating system * Lab Admins: I was responsible on installing and maintaining about two hundred computers and maintaining its networks. I was also working for a Professor's project for an goverment office in Surabaya. My duties was as software developer on 3 information systems application that is using Oracle and PHP and one profile website that using Joomla for this region governmental office.
 
 ## Awards
 
@@ -269,7 +262,7 @@ The following are the technical skills I have and technologies that I have exper
 
 - Indonesia (Native)
 - English (Sep 2017 ~ TOEFL ITP: Score 560)
-- Chinese (Basic)
+- Chinese Mandarin (Basic)
 
 ## Links
 
